@@ -1,0 +1,35 @@
+h1,h2{
+	text-align: center;
+	font-size: 50px;
+}
+head,body{
+	background-size: cover;
+	font-family: "europa",sans-serif; 
+}
+html{
+	background-color:ghostwhite;
+width: 100%;
+margin-left: auto;
+margin-right: auto;
+height: auto;
+}
+.centerpiece{
+	margin-top: 180px;
+
+}
+.minimal{
+	text-align: center;
+font-size: 20px
+}
+img{display: block;
+margin-right: auto;
+margin-left: auto;
+width: 100%}
+
+ul{width: 85%;
+height: 1px;
+line-height:1px;
+padding: 0px 100px;
+position: relative;
+text-align: right;
+list-style-type: none;}
